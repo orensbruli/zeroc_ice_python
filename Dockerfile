@@ -1,6 +1,6 @@
-FROM python:3.6.3-alpine3.6
+FROM python:3.7-alpine3.17
 
-ARG ICE_VERSION=3.7.0.1
+ARG ICE_VERSION=3.7.8
 ARG BUILD_DATE
 ARG VCS_REF
 
